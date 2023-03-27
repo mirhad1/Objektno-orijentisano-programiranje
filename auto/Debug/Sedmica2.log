@@ -1,0 +1,4 @@
+﻿  MojeAuto.cpp
+C:\Fax\OOP\Vjezbe\Sedmica2\MojeAuto.cpp(75): warning C4715: 'MojeAuto::ispisBrzina': not all control paths return a value
+C:\Fax\OOP\Vjezbe\Sedmica2\MojeAuto.cpp(86): warning C4715: 'MojeAuto::ispisStanje': not all control paths return a value
+  Sedmica2.vcxproj -> C:\Fax\OOP\Vjezbe\Sedmica2\Debug\Sedmica2.exe
